@@ -63,6 +63,13 @@ streamlit run cancer_app.py
 
 ## Dataset
 
+The dataset used in this project is the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
+
+### How to Add the Dataset
+
+1. Download the dataset from the link above.
+2. Place the `data.csv` file in the `dataset/` directory:
+
 The dataset contains 30 features extracted from digitized images of breast mass. These features describe the characteristics of the cell nuclei present in the image. The target variable is the diagnosis (`M` for malignant, `B` for benign).
 
 ---
