@@ -10,8 +10,8 @@ __pycache__/
 .venv/
 env/
 
-# Ignore dataset files (optional, if dataset is large)
+# Ignore dataset files
 dataset/
 
-# Ignore model files (optional, if you don't want to upload the model)
+# Ignore model files
 *.pkl
